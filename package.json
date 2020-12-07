@@ -1,0 +1,16 @@
+{
+  "name": "snabbdom-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.2",
+    "snabbdom": "^2.1.0"
+  }
+}
